@@ -6,8 +6,8 @@
 - 📱 Pleased you see my last SPA http://wasender.fun
 
 ## ⚡ Technologies
-
-![Blockchain](https://img.shields.io/badge/Blockchain-blue?style=flat-square&logo=ethereum)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-yellow?style=flat-square&logo=bitcoin)
+![Blockchain](https://img.shields.io/badge/Ethereum-blue?style=flat-square&logo=ethereum)
 ![Solidity](https://img.shields.io/badge/Solidity-black?style=flat-square&logo=solidity)
 ![Reactjs](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
