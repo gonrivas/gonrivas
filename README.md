@@ -7,7 +7,7 @@
 
 ## ⚡ Technologies
 
-![Blockchain](https://img.shields.io/badge/Blockchain-%20-blue)
+![Blockchain](https://img.shields.io/badge/Blockchain-blue?style=flat-square&logo=blockchain)
 ![Solidity](https://img.shields.io/badge/Solidity-black?style=flat-square&logo=solidity)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
