@@ -7,8 +7,8 @@
 
 ## ⚡ Technologies
 
-![Blockchain]
-![Solidity](https://res.cloudinary.com/practicaldev/image/fetch/s--Rxmub8vz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jd65usaioipnkv5xs5a.png)
+![Blockchain](https://img.shields.io/badge/Blockchain-%20-blue)
+![Solidity](https://img.shields.io/badge/Solidity-%20-black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
